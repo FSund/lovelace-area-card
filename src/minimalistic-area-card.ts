@@ -790,6 +790,6 @@ export class MinimalisticAreaCard extends LitElement implements LovelaceCard {
 }
 declare global {
   interface HTMLElementTagNameMap {
-    'minimalistic-area-card-dev': MinimalisticAreaCard;
+    'minimalistic-area-card': MinimalisticAreaCard;
   }
 }
